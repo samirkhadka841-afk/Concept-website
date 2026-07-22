@@ -136,8 +136,8 @@ iphone17-promax/
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/iphone17-promax-concept.git
-```
+git clone https://github.com/samirkhadka841-afk/Concept-website.git
+``` 
 
 ## Navigate to the Project
 
@@ -181,21 +181,6 @@ npm start
 
 ---
 
-# Core Technologies
-
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- GSAP
-- Framer Motion
-- Three.js
-- React Three Fiber
-- Lenis
-- Vercel
-
----
-
 # Project Highlights
 
 - Premium visual design
@@ -217,30 +202,6 @@ npm start
 Aspiring Software Engineer and future Computer Science student with a strong interest in modern web technologies, user experience design, and interactive digital products.
 
 This project reflects a commitment to creating refined web experiences through clean architecture, thoughtful design, and contemporary development practices.
-
-### Skills
-
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- Node.js
-- Express.js
-- MongoDB
-- Supabase
-- Firebase
-- GSAP
-- Framer Motion
-- Three.js
-- Git
-- GitHub
-- REST APIs
-- Responsive Design
-- UI/UX Design
-- AI Integration
-
----
 
 # Objectives
 
